@@ -1,0 +1,164 @@
+\documentclass{JINST}
+
+
+\title{Title}
+
+\author{First Author$^a$, Second Author$^b$\thanks{Corresponding
+author.}~ and Third Author$^b$\\
+\llap{$^a$}Name of Institute,\\
+  Address, Country\\
+\llap{$^b$}Name of Institute,\\
+  Address, Country\\
+  E-mail: \email{CorrespondingAuthor@email.com}}
+
+
+\abstract{Abstract must be short enough to appear in this page
+toghether with title, authors, their addresses and keywords.}
+
+
+\keywords{Keyword1; Keyword2; Keyword3}
+
+\begin{document}
+
+\section{First section}
+
+
+        Tasdfah asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi\footnote{Footnotes in the text are numbered.}  soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.
+Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd.  Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi
+soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd.
+
+
+
+Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd.
+
+\subsection{Subsection}
+
+Tasdfah asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi
+soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.
+Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd.
+
+Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd.  Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi
+soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd.
+
+
+\section{Second section}
+
+\subsection{Subsection}
+
+        Tasdfah asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi
+soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.
+Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd.  Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi
+soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.
+
+
+\subsubsection{Subsubsection}
+
+        Tasdfah asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi
+soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.
+Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd.
+
+
+\section{Section}
+
+        Tasdfah asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd.
+
+Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi
+soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.
+
+\acknowledgments
+
+        Tasdfah asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu
+hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh
+siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.  Asoiuh siuhihosi
+soiu hskjd asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd
+asoiuh siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh
+siuhihosi soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi
+soiu hskjd. Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.
+Asoiuh siuhihosi soiu hskjd asoiuh siuhihosi soiu hskjd.
+
+
+\begin{thebibliography}{9}
+
+\bibitem{bib1}
+A. Pietropaolo et al., \emph{DINS measurements on VESUVIO in the
+    resonance detector configuration: proton mean kinetic energy in
+    water}, \jinst{1}{2006}{P04001}.
+
+\bibitem{bib2}
+A.I. Harris,
+\emph{Spectroscopy with multichannel correlation radiometers},
+\href{http://dx.doi.org/10.1063/1.1898643}
+{\emph{Rev.\ Sci.\ Instrum.} {\bf 76} (2005) 054503}
+[\astroph{0504449}].
+
+\bibitem{bib3}
+G.F. Knoll, \emph{Radiation detection and measurements}, John Wiley
+    and Sons, Inc., New York 2000.
+
+\bibitem{bib4}
+V. Dangendorf, \emph{Time-resolved fast-neutron imaging with a
+pulse-counting image intensifier}, in proceedings of
+\emph{International workshop on fast neutron detectors and
+applications}, April, 3--6, 2006 University of Cape Town, South Africa
+\pos{PoS(FNDA2006)008}.
+
+\end{thebibliography}
+\end{document}

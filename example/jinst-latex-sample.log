@@ -1,0 +1,318 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  4 JAN 2015 06:33
+entering extended mode
+**C:/diplom/Paper/example/jinst-latex-sample.tex
+(C:/diplom/Paper/example/jinst-latex-sample.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\diplom\Paper\example\JINST.cls
+Document Class: JINST 2014/06/17 v1.0.3 LaTeX document class - P.D.
+(C:\Latex\Full_TeX\texmf\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Latex\Full_TeX\texmf\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Latex\Full_TeX\texmf\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\Latex\Full_TeX\texmf\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Latex\Full_TeX\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Latex\Full_TeX\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\Latex\Full_TeX\texmf\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\Latex\Full_TeX\texmf\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(C:\Latex\Full_TeX\texmf\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count79
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\symforjmath=\mathgroup8
+
+(C:\Latex\Full_TeX\texmf\tex\latex\base\size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+(C:\Latex\Full_TeX\texmf\tex\plain\misc\pdfcolor.tex)
+\titlesk@ja=\skip41
+\titlesk@jb=\skip42
+\titlesk@jc=\skip43
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\prev@t=\toks16
+\cur@t=\toks17
+\@firstaubox=\box26
+\addr@skip=\skip44
+\auth@skip=\skip45
+\Jcopy@date=\box27
+\Jspecial@url=\box28
+\Jpaper@url=\box29
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 818.
+
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+\c@figure=\count86
+\c@table=\count87
+\c@OptionTest=\count88
+\@tmpbox=\box30
+\figbox=\box31
+\tabbox=\box32
+\pagebox=\box33
+\ffigcount=\count89
+\ftabcount=\count90
+\hangcount=\count91
+\nosuccesstryfig=\count92
+\nosuccesstrytab=\count93
+\figgutter=\dimen104
+\tabgutter=\dimen105
+\fl@wd=\dimen106
+\fl@ht=\dimen107
+\htdone=\dimen108
+\pageht=\dimen109
+\startpageht=\dimen110
+\floatfltwidth=\dimen111
+\fltitemwidth=\dimen112
+\outputpretest=\toks18
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\bibindent=\dimen113
+
+
+Class JINST Warning: ATTENTION!!! watermark disabled. Add it with pdftk (use co
+mpilaJINSTpdflatex for instance).
+
+) (C:\diplom\Paper\example\jinst-latex-sample.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 21.
+
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+\big@size=\dimen114
+
+(C:\Latex\Full_TeX\texmf\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen115
+\scratchbox=\box34
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen116
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks20
+)
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 21
+.
+ (C:\Latex\Full_TeX\texmf\tex\latex\psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 21
+.
+
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 21
+.
+
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 21
+.
+
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 21.
+
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 21.
+
+(C:\Latex\Full_TeX\texmf\tex\latex\psnfss\t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+ [0
+
+{C:/Latex/Full_TeX/texmf/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 21.
+ (C:\diplom\Paper\example\jinst-latex-sample.toc)
+\tf@toc=\write3
+
+
+! LaTeX Error: File `facility_1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45   \includegraphics[width=50mm]{facility_1}
+                                               \\
+I could not locate the file with any of these extensions:
+.pdf,.jpg,.jpeg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45   \includegraphics[width=50mm]{facility_1}\\
+                                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 46.
+[1] [2] [3] (C:\diplom\Paper\example\jinst-latex-sample.aux) ) 
+Here is how much of TeX's memory you used:
+ 2427 strings out of 493921
+ 28500 string characters out of 3150556
+ 79352 words of memory out of 3000000
+ 5653 multiletter control sequences out of 15000+200000
+ 84445 words of font info for 133 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 34i,9n,28p,304b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Latex/Full_Te
+X/texmf/fonts/enc/dvips/fontname/8r.enc}<C:/Latex/Full_TeX/texmf/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/courier/uc
+rr8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Latex
+/Full_TeX/texmf/fonts/type1/urw/times/utmb8a.pfb><C:/Latex/Full_TeX/texmf/fonts
+/type1/urw/times/utmr8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on jinst-latex-sample.pdf (4 pages, 84590 bytes).
+PDF statistics:
+ 80 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,28 @@
+PStill Conversion Problem Report
+
+* Date: Fri Dec 26 13:24:31 2014
+* Input from: C:\diplom\Paper\pictures\facility_1.pdf
+@lPStill Conversion Log
+* Call is equivalent to the following command line options:
+  -m Xoverprint -c -c -c -c -g -w 4000 -h 4000 -i -K -p -t -J 75 -2 -M transmode=2 
+  -M transdpi=400 -M transoptions=antialias -m XimgAsCMYK -W -M optimizefonts 
+  -M useSrcUnicodeMap -R 0 -a 3 -d 300/150/400 -f -M regenfonts -m Erewrite+=72 
+  -T C:\Users\Vlad\AppData\Local\Temp 
+- Option selected: Overprinting will be taken over
++ Preset: use Transparency Flatten Mode: 2
++ Preset: use Transparency Flatten DPI: 400
+- Option selected: All color images are converted to CMYK
+- Option selected: Optimizing embedded fonts for smaller size
++ Preset: Use source PDF unicode maps if present
+- Option selected: Regenerating embedded fonts from RunTime Info
+* Output to 'C:\diplom\Paper\pictures\facility_1_new.eps'
++ Read 192 encoding mappings from windrv_mapping.table
++ 'C:\diplom\Paper\pictures\facility_1.pdf' is transcoded [Flatten mode 2, target dpi 400]...
+Transcoding PDF...
+Transcoding PDF...
+Transcoding thread starting...
+Transcoding has finished.
++ PDF 'C:\diplom\Paper\pictures\facility_1.pdf' is processed...
+* May only be used for evaluation purposes
+Error: Not licensed for this output mode
+* Cleaning up Temp Directory C:\Users\Vlad\AppData\Local\Temp\PStillTmpResources
