@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  23 JAN 2015 21:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  24 JAN 2015 00:31
 entering extended mode
-**C:/diplom/Paper/example/jinst-latex-sample.tex
-(C:/diplom/Paper/example/jinst-latex-sample.tex
+**C:/diplom/Paper/article_jinst.tex
+(C:/diplom/Paper/article_jinst.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\diplom\Paper\example\JINST.cls
+(C:\diplom\Paper\JINST.cls
 Document Class: JINST 2014/06/17 v1.0.3 LaTeX document class - P.D.
 (C:\Latex\Full_TeX\texmf\tex\generic\oberdiek\ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
@@ -166,153 +166,216 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 Class JINST Warning: ATTENTION!!! watermark disabled. Add it with pdftk (use co
 mpilaJINSTpdflatex for instance).
 
-) (C:\diplom\Paper\example\jinst-latex-sample.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 21.
+) (C:\Latex\Full_TeX\texmf\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen116
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen117
+\subfiglabelskip=\skip51
+\c@subfigure=\count94
+\c@lofdepth=\count95
+\c@subtable=\count96
+\c@lotdepth=\count97
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Latex\Full_TeX\texmf\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen118
+))
+(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen119
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen120
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks20
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks21
+\eqnshift@=\dimen121
+\alignsep@=\dimen122
+\tagshift@=\dimen123
+\tagwidth@=\dimen124
+\totwidth@=\dimen125
+\lineht@=\dimen126
+\@envbody=\toks22
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(C:\Latex\Full_TeX\texmf\tex\latex\tools\delarray.sty
+Package: delarray 1994/03/14 v1.01 array delimiter package (DPC)
+
+(C:\Latex\Full_TeX\texmf\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen127
+\extrarowheight=\dimen128
+\NC@list=\toks24
+\extratabsurround=\skip57
+\backup@length=\skip58
+))
+(C:\diplom\Paper\article_jinst.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 29.
 
 (C:\Latex\Full_TeX\texmf\tex\latex\psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-\big@size=\dimen114
-
 (C:\Latex\Full_TeX\texmf\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count94
-\scratchdimen=\dimen115
-\scratchbox=\box34
-\nofMPsegments=\count95
-\nofMParguments=\count96
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count97
-\MPscratchDim=\dimen116
-\MPnumerator=\count98
-\makeMPintoPDFobject=\count99
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count110
+\scratchdimen=\dimen129
+\scratchbox=\box36
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen130
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks26
 )
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 21
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 29
 .
  (C:\Latex\Full_TeX\texmf\tex\latex\psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 21
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 29
 .
 
 (C:\Latex\Full_TeX\texmf\tex\latex\psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 21
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 29
 .
 
 (C:\Latex\Full_TeX\texmf\tex\latex\psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 21
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 29
 .
 
 (C:\Latex\Full_TeX\texmf\tex\latex\psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 21.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
 
 (C:\Latex\Full_TeX\texmf\tex\latex\psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 21.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 29.
 
 (C:\Latex\Full_TeX\texmf\tex\latex\psnfss\t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 21.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
  [0
 
 {C:/Latex/Full_TeX/texmf/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 21.
- (C:\diplom\Paper\example\jinst-latex-sample.toc)
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 29.
+ (C:\diplom\Paper\article_jinst.toc)
 \tf@toc=\write3
-
-
-! LaTeX Error: File `facility_1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45   \includegraphics[width=50mm]{facility_1}
-                                               \\
-I could not locate the file with any of these extensions:
-.pdf,.jpg,.jpeg
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45   \includegraphics[width=50mm]{facility_1}\\
-                                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 46.
-[1] [2] [3] (C:\diplom\Paper\example\jinst-latex-sample.aux) ) 
+ [1] [2] [3]
+(C:\diplom\Paper\article_jinst.aux) ) 
 Here is how much of TeX's memory you used:
- 2427 strings out of 493921
- 28500 string characters out of 3150556
- 79353 words of memory out of 3000000
- 5653 multiletter control sequences out of 15000+200000
- 84445 words of font info for 133 fonts, out of 3000000 for 9000
+ 3255 strings out of 493921
+ 38160 string characters out of 3150556
+ 94257 words of memory out of 3000000
+ 6442 multiletter control sequences out of 15000+200000
+ 84049 words of font info for 136 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,9n,28p,304b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Latex/Full_Te
-X/texmf/fonts/enc/dvips/fontname/8r.enc}<C:/Latex/Full_TeX/texmf/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/courier/uc
-rr8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Latex
-/Full_TeX/texmf/fonts/type1/urw/times/utmb8a.pfb><C:/Latex/Full_TeX/texmf/fonts
-/type1/urw/times/utmr8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/times/utmr
-i8a.pfb>
-Output written on jinst-latex-sample.pdf (4 pages, 84590 bytes).
+ 35i,8n,28p,423b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Latex/Full_TeX/texmf/fonts/enc/dvips/f
+ontname/8r.enc}<C:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb><C:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Latex
+/Full_TeX/texmf/fonts/type1/urw/courier/ucrr8a.pfb><C:/Latex/Full_TeX/texmf/fon
+ts/type1/urw/helvetic/uhvb8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/times
+/utmb8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/times/utmr8a.pfb><C:/Latex
+/Full_TeX/texmf/fonts/type1/urw/times/utmri8a.pfb>
+Output written on article_jinst.pdf (4 pages, 93732 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
