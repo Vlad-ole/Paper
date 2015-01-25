@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  24 JAN 2015 00:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  24 JAN 2015 01:22
 entering extended mode
 **C:/diplom/Paper/article_jinst.tex
 (C:/diplom/Paper/article_jinst.tex
@@ -356,26 +356,31 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 29.
  (C:\diplom\Paper\article_jinst.toc)
 \tf@toc=\write3
- [1] [2] [3]
-(C:\diplom\Paper\article_jinst.aux) ) 
+
+Overfull \hbox (7.67848pt too wide) in paragraph at lines 35--37
+\T1/ptm/m/n/10.95 имеют широкое практическое применение в физике высокий энерги
+й и медицинских рентгеновских приборах.
+ []
+
+[1] [2] [3] (C:\diplom\Paper\article_jinst.aux) ) 
 Here is how much of TeX's memory you used:
- 3255 strings out of 493921
- 38160 string characters out of 3150556
- 94257 words of memory out of 3000000
- 6442 multiletter control sequences out of 15000+200000
+ 3257 strings out of 493921
+ 38179 string characters out of 3150556
+ 94261 words of memory out of 3000000
+ 6443 multiletter control sequences out of 15000+200000
  84049 words of font info for 136 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  35i,8n,28p,423b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Latex/Full_TeX/texmf/fonts/enc/dvips/f
-ontname/8r.enc}<C:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi10.p
-fb><C:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Latex
-/Full_TeX/texmf/fonts/type1/urw/courier/ucrr8a.pfb><C:/Latex/Full_TeX/texmf/fon
-ts/type1/urw/helvetic/uhvb8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/times
-/utmb8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/times/utmr8a.pfb><C:/Latex
-/Full_TeX/texmf/fonts/type1/urw/times/utmri8a.pfb>
-Output written on article_jinst.pdf (4 pages, 93732 bytes).
+{C:/Latex/Full_TeX/texmf/fonts
+/enc/dvips/fontname/8r.enc}<C:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/courier/ucrr8a.pfb><C:/Latex/Full_T
+eX/texmf/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Latex/Full_TeX/texmf/fonts/typ
+e1/urw/times/utmb8a.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/times/utmr8a.p
+fb><C:/Latex/Full_TeX/texmf/fonts/type1/urw/times/utmri8a.pfb>
+Output written on article_jinst.pdf (4 pages, 99207 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
+ 95 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

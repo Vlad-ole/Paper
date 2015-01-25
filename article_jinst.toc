@@ -2,7 +2,7 @@
 \contentsline {section}{\numberline {2}Energy resolution of the detector}{1}
 \contentsline {section}{\numberline {3}Experiment}{1}
 \contentsline {section}{\numberline {4}Monte Carlo simulation}{1}
-\contentsline {section}{\numberline {5}Results and discussion}{1}
-\contentsline {section}{\numberline {6}Energy resolution of the detector}{1}
+\contentsline {section}{\numberline {5}Results and discussion}{2}
+\contentsline {section}{\numberline {6}Energy resolution of the detector}{2}
 \contentsline {section}{\numberline {7}Conclusion}{2}
 \contentsline {section}{\numberline {8}Acknowledgements}{2}
